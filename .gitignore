@@ -1,4 +1,5 @@
 .idea
 lib
 out/production
+out/artifact/simple-net-jar/lib
 simple-net.iml
